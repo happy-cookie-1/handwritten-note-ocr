@@ -44,3 +44,7 @@ Scores below use the saved predictions from the 23 November local run. The two p
 | Page 2 | 12 | 15.04% | 0.27% |
 
 The same run reported mean CER across eight single-line samples of 10.86% strict and 3.57% normalized. Seven of eight matched after normalization.
+
+## Acknowledgments
+
+I developed this project with help from OpenAI’s ChatGPT in writing and debugging Python code, understanding the image-processing algorithms, and preparing the documentation.
