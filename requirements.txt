@@ -1,0 +1,6 @@
+numpy
+opencv-python-headless
+Pillow>=9.1
+torch
+transformers
+ollama

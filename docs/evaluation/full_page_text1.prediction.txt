@@ -1,0 +1,15 @@
+my journal .
+Today is our first day of experimenting with full page
+recognitions in our project .
+of everything goes right , this page I am extremely writing with
+be the first page ever .
+Notes for myself , we should definitely implement paragraph
+recognition later .
+It is quite hard to think of random sentences that
+could fill an entire page , I am almost out of ideas .
+Leaving bigger space so the page gets filled sooner .
+Hello
+" The project should be able to recognise all kinds
+of texts .
+What if one sentence is written
+with larger font than the other ones ?

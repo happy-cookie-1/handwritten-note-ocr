@@ -1,0 +1,12 @@
+' Hello , my recognizer .
+This time I will write everything in
+the middle of the page .
+" Keeping lines further apart , and trying
+to keep a straight line while writing .
+We will see if this hypothetical ideal
+situation will improve accurate .
+" I made a grammatical error in the
+last line , I meant to write accuracy .
+GPT , you are amazing !
+Thus reminds me to test a full
+capital letter line .
